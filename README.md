@@ -7,9 +7,8 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 
 <img width="50%" alt="img" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" height="auto"/>
 
-#### :muscle: Things I am currently working on: 
-- Finish my Master Degree  
-- Learn reinforment learning for robot
+#### :muscle: Things I am currently working on:  
+- Learning reinforcement learning for robotics
 - Improving my CV with some education apart from university
 
 #### :boom: Things I am interested in:
