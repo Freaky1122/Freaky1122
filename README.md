@@ -23,7 +23,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" />
 
-![](https://skillicons.dev/icons?perline=15&i=c,cpp,git,python,javamd,regex,aws,linux,bash,docker)
+![](https://skillicons.dev/icons?perline=15&i=c,cpp,git,python,md,,linux,bash,docker)
 
 
 
