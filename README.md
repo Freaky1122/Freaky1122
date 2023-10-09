@@ -18,12 +18,12 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - :tennis: Badminton and tennis(just a rookie)
 - and keep curious about anything interesting 
 
-
-
+#### :computer: Programming language and skills
+![](https://skillicons.dev/icons?perline=15&i=c,cpp,git,python,md,linux,bash)
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" />
 
-![](https://skillicons.dev/icons?perline=15&i=c,cpp,git,python,md,linux,bash)
+
 
 
 
