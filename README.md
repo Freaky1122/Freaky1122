@@ -14,7 +14,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - Improving my CV with some education apart from university
 
 #### :muscle: Things I am interested in:
-- :red_car: F1
+- :racing_car: F1
 - :bicyclist: Cycling
 - :earth_africa: Geoguessr
 - :tennis: Badminton and tennis
