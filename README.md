@@ -20,8 +20,8 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - :tennis: Badminton and tennis(just a rookie)
 - and keep curious about anything interesting 
 
+![](https://activity-graph.herokuapp.com/graph?username=Freaky1122&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-#### :computer: Programming languages and tools: 
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" />
 
