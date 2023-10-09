@@ -5,8 +5,6 @@
 Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Control science and engineering Master degree at Nanjing University of Aeronautics and Astronautics !  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-![](https://activity-graph.herokuapp.com/graph?username=Freaky1122&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
 
 #### 🌱 Things I am currently working on: 
 - Finish my Master Degree  
