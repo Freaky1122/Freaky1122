@@ -9,15 +9,16 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Finish my Master Degree  
+- Learn reinforment learning for robot
 - Improving my CV with some education apart from university
+
+#### :muscle: Things I am interested in:
+- :red_car:F1
+- :bicyclist: Cycling
+- :tennis: Badminton and tennis
+-  and anything else interesting 
+
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -36,5 +37,4 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
