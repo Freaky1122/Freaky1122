@@ -18,7 +18,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - :bicyclist: Cycling
 - :earth_africa: Geoguessr
 - :tennis: Badminton and tennis
--  and anything else interesting 
+- and keep curious about anything interesting 
 
 
 #### :computer: Programming languages and tools: 
