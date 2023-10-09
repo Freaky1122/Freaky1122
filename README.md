@@ -2,7 +2,7 @@
 ## This is qwq
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Freaky1122)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:quewenqiang@gmail.com)
-
+![](https://activity-graph.herokuapp.com/graph?username=Freaky1122&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Control science and engineering Master degree at Nanjing University of Aeronautics and Astronautics !  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
@@ -20,7 +20,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - :tennis: Badminton and tennis(just a rookie)
 - and keep curious about anything interesting 
 
-![](https://activity-graph.herokuapp.com/graph?username=Freaky1122&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
 
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" />
