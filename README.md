@@ -7,18 +7,18 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 <img src="/github-metrics.svg" alt="Metrics" width="50%" align="right" height="250">
 <img width="50%" alt="img" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" height="180"/>
 
-#### :muscle: Things I am currently working on:  
+### :muscle: Things I am currently working on:  
 - Learning reinforcement learning for robotics
 - Improving my CV with some education apart from university
 
-#### :boom: Things I am interested in:
+### :boom: Things I am interested in:
 - :racing_car: F1
 - :bicyclist: Cycling
 - :earth_africa: Geoguessr
 - :tennis: Badminton and tennis(just a rookie)
 - and keep curious about anything interesting 
 
-#### :computer: Programming language and skills
+### :computer: Programming language and skills
 ![](https://skillicons.dev/icons?perline=15&i=c,cpp,python,git,linux)
 
 
