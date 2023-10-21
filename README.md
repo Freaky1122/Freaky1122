@@ -5,7 +5,7 @@
 
 Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Control science and engineering Master degree at Nanjing University of Aeronautics and Astronautics ! 
 
-<img src="/github-metrics.svg" alt="Metrics" width="50%" align="right" height="220">
+<img src="/github-metrics.svg" alt="Metrics" width="55%" align="right" height="220">
 <img width="50%" alt="img" align="right" src="https://github-readme-stats.vercel.app/api?username=Freaky1122&show_icons=true&hide_border=true" height="180"/>
 
 ### :muscle: Things I am currently working on:  
