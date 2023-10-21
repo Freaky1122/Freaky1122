@@ -20,7 +20,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 - and keep curious about anything interesting 
 
 ### :computer: Programming language and skills
-![](https://skillicons.dev/icons?perline=15&i=c,cpp,python,git,linux)
+![](https://skillicons.dev/icons?perline=15&i=c,cpp,python,docker,git,linux)
 
 
 
