@@ -15,6 +15,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 ### :boom: Things I am interested in:
 - :racing_car: F1
 - :bicyclist: Cycling
+- 🏃‍♂️: Marathon
 - :earth_africa: Geoguessr
 - :tennis: Badminton and tennis(just a rookie)
 - and keep curious about anything interesting 
