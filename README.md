@@ -10,7 +10,7 @@ Welcome to my Github page! I am Wenqiang Que and I am currently finishing my Con
 
 ### :muscle: Things I am currently working on:  
 - Learning reinforcement learning for robotics
-- Improving my CV with some education apart from university
+- Improving myslef with some education apart from university
 
 ### :boom: Things I am interested in:
 - :racing_car: F1
